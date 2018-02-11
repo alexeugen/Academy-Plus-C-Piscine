@@ -1,6 +1,0 @@
-Credentials cache: API:27480
-        Principal: eiordach@42.FR
-
-  Issued                Expires               Principal
-Sep 12 10:08:02 2017  Sep 12 20:08:02 2017  krbtgt/42.FR@42.FR
-Sep 12 11:52:10 2017  Sep 12 20:08:02 2017  ldap/ldap-proxy.42.fr@42.FR
